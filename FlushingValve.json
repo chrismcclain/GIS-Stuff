@@ -1,0 +1,5848 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "Id" : "Id",
+    "FlushingID" : "FlushingID",
+    "FacilityID" : "FacilityID",
+    "F_Phase" : "F_Phase",
+    "CurrOpen" : "CurrOpen"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102711,
+    "latestWkid" : 3424
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FlushingID",
+      "type" : "esriFieldTypeString",
+      "alias" : "FlushingID",
+      "length" : 5
+    },
+    {
+      "name" : "FacilityID",
+      "type" : "esriFieldTypeString",
+      "alias" : "FacilityID",
+      "length" : 10
+    },
+    {
+      "name" : "F_Phase",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "F_Phase"
+    },
+    {
+      "name" : "CurrOpen",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "CurrOpen"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "Id" : 0,
+        "FlushingID" : "PW-1",
+        "FacilityID" : "FA17-V037",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579539.25584989658,
+        "y" : 453182.47559005063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "Id" : 0,
+        "FlushingID" : "R1",
+        "FacilityID" : "A17-V058",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579755.82697161706,
+        "y" : 453613.31492100714
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "Id" : 0,
+        "FlushingID" : "R2",
+        "FacilityID" : "A17-V039",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578031.85129999986,
+        "y" : 453997.46799999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "Id" : 0,
+        "FlushingID" : "R3",
+        "FacilityID" : "14A-V003",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578471.80210000009,
+        "y" : 454359.24790000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "Id" : 0,
+        "FlushingID" : "1",
+        "FacilityID" : "FC30-V004",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583486.47988,
+        "y" : 446987.96651
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "Id" : 0,
+        "FlushingID" : "2",
+        "FacilityID" : "F28-V006",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578756.56915999996,
+        "y" : 446910.88793000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "FA14-V019",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582423.06279,
+        "y" : 454241.09638
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "Id" : 0,
+        "FlushingID" : "3",
+        "FacilityID" : "FA14-V004",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582147.46780999994,
+        "y" : 455773.49286
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "Id" : 0,
+        "FlushingID" : "4",
+        "FacilityID" : "F11-V056",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582838.76913000003,
+        "y" : 456682.69628999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "Id" : 0,
+        "FlushingID" : "OP1",
+        "FacilityID" : "A11-V115",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581384.1370191006,
+        "y" : 456997.04109839292
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "Id" : 0,
+        "FlushingID" : "OP2",
+        "FacilityID" : "F11-V056",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581940.64086054475,
+        "y" : 457159.25740146503
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "FA11-V030",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581832.37360000005,
+        "y" : 456241.96110000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "Id" : 0,
+        "FlushingID" : "26",
+        "FacilityID" : "A11-V028",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581815.26581588993,
+        "y" : 456489.98324278055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "Id" : 0,
+        "FlushingID" : "27",
+        "FacilityID" : "FA11-V031",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581829.1847000001,
+        "y" : 456239.60420000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "Id" : 0,
+        "FlushingID" : "20",
+        "FacilityID" : "FA11-V013",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581491.82339999999,
+        "y" : 456849.47220000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "Id" : 0,
+        "FlushingID" : "40",
+        "FacilityID" : "A11-V109",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581419.61105613457,
+        "y" : 456885.81066266616
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "Id" : 0,
+        "FlushingID" : "28",
+        "FacilityID" : "A11-V082",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581175.54720308306,
+        "y" : 457026.00806781562
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "Id" : 0,
+        "FlushingID" : "29",
+        "FacilityID" : "A11-V071",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580875.58831474266,
+        "y" : 457025.20193587209
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "Id" : 0,
+        "FlushingID" : "21",
+        "FacilityID" : "C11-V008",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580598.8333421523,
+        "y" : 457259.15738305671
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "F11-V003",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580411.18070000003,
+        "y" : 457289.46549999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "Id" : 0,
+        "FlushingID" : "33",
+        "FacilityID" : "F11-V094",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581366.82079999999,
+        "y" : 456550.05290000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "Id" : 0,
+        "FlushingID" : "36",
+        "FacilityID" : "A11-V096",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581047.12217269011,
+        "y" : 456707.27541543607
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "Id" : 0,
+        "FlushingID" : "31",
+        "FacilityID" : "A11-V074",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580807.49353563681,
+        "y" : 456833.92820373841
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "Id" : 0,
+        "FlushingID" : "39",
+        "FacilityID" : "A11-V106",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581137.85573122103,
+        "y" : 456917.42201964412
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "Id" : 0,
+        "FlushingID" : "37",
+        "FacilityID" : "A11-V078",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580713.61821328232,
+        "y" : 456663.92768037145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "A11-V072",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580804.67809075047,
+        "y" : 456841.02948886366
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "Id" : 0,
+        "FlushingID" : "32",
+        "FacilityID" : "A11-V073",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580814.19702581887,
+        "y" : 456837.41178135242
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "Id" : 0,
+        "FlushingID" : "38",
+        "FacilityID" : "A11-V091",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581012.80476198206,
+        "y" : 456609.95345365268
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "Id" : 0,
+        "FlushingID" : "25",
+        "FacilityID" : "F11-V017",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581324.2141942411,
+        "y" : 456443.62822741811
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "Id" : 0,
+        "FlushingID" : "23",
+        "FacilityID" : "F11-V016",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581327.54850000003,
+        "y" : 456445.3443
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "Id" : 0,
+        "FlushingID" : "OP3",
+        "FacilityID" : "A11-V136",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581610.10020497337,
+        "y" : 457385.56162063451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "Id" : 0,
+        "FlushingID" : "OP4",
+        "FacilityID" : "A11-V124",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581708.74761980702,
+        "y" : 456820.51935769391
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "Id" : 0,
+        "FlushingID" : "6",
+        "FacilityID" : "FA22-V007",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580951.45577,
+        "y" : 451372.01989
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "Id" : 0,
+        "FlushingID" : "6G",
+        "FacilityID" : "C21A-V003",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575694.57447454706,
+        "y" : 451809.28147019248
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "Id" : 0,
+        "FlushingID" : "7",
+        "FacilityID" : "F21-V010",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579680.96160000004,
+        "y" : 450208.63683999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "Id" : 0,
+        "FlushingID" : "6C",
+        "FacilityID" : "F21-V010",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579027.77641214489,
+        "y" : 451253.09594605234
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "Id" : 0,
+        "FlushingID" : "6E",
+        "FacilityID" : "C17-V027",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577306.01668833126,
+        "y" : 452346.26050031936
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "Id" : 0,
+        "FlushingID" : "R8",
+        "FacilityID" : "A17-V043",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578393.33499999985,
+        "y" : 453817.57390000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "Id" : 0,
+        "FlushingID" : "R4",
+        "FacilityID" : "14A-V004",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578474.17159999989,
+        "y" : 454364.34029999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "Id" : 0,
+        "FlushingID" : "R9",
+        "FacilityID" : "14A-V017",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578145.95180000016,
+        "y" : 454211.73600000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "Id" : 0,
+        "FlushingID" : "R3",
+        "FacilityID" : "FA14-V003",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582031.6875,
+        "y" : 455867.55430000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "Id" : 0,
+        "FlushingID" : "R5",
+        "FacilityID" : "14A-V013",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579281.36038949457,
+        "y" : 454194.6610695463
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "Id" : 0,
+        "FlushingID" : "R6",
+        "FacilityID" : "A17-V059",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579759.30303015059,
+        "y" : 453614.88673894585
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "Id" : 0,
+        "FlushingID" : "R7",
+        "FacilityID" : "A17-V056",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579333.25060000003,
+        "y" : 453875.5111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "Id" : 0,
+        "FlushingID" : "6D",
+        "FacilityID" : "C17-V001",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578702.56714794436,
+        "y" : 453611.36464264861
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "Id" : 0,
+        "FlushingID" : "6F",
+        "FacilityID" : "C21-V002",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579011.79087658192,
+        "y" : 451244.65105044423
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "Id" : 0,
+        "FlushingID" : "A",
+        "FacilityID" : "17A-V024",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574269.88859136763,
+        "y" : 452064.96529365337
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "Id" : 0,
+        "FlushingID" : "B",
+        "FacilityID" : "17A-V017",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574598.60755775822,
+        "y" : 452030.70862822712
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "Id" : 0,
+        "FlushingID" : "D",
+        "FacilityID" : "A17A-V015",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574868.91764518933,
+        "y" : 451998.36232453014
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "Id" : 0,
+        "FlushingID" : "E",
+        "FacilityID" : "21A-V048",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574237.22548395523,
+        "y" : 451792.35290742409
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "Id" : 0,
+        "FlushingID" : "F",
+        "FacilityID" : "21A-V049",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574566.24540518736,
+        "y" : 451761.73303853325
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "Id" : 0,
+        "FlushingID" : "G",
+        "FacilityID" : "21A-V010",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574829.66575213056,
+        "y" : 451725.33049780776
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "Id" : 0,
+        "FlushingID" : "H",
+        "FacilityID" : "F21A-V016",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575372.80263356271,
+        "y" : 451680.93245446857
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "Id" : 0,
+        "FlushingID" : "S1",
+        "FacilityID" : "F21A-V035",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576886.83364682051,
+        "y" : 451168.91468264483
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "Id" : 0,
+        "FlushingID" : "S2",
+        "FacilityID" : "F21A-V036",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576648.3808361165,
+        "y" : 451292.90029428113
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "Id" : 0,
+        "FlushingID" : "S3",
+        "FacilityID" : "F21A-V042",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576389.45607071184,
+        "y" : 451430.67532984132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "Id" : 0,
+        "FlushingID" : "S4",
+        "FacilityID" : "F21A-V043",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576145.60395892721,
+        "y" : 451557.65515172551
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "Id" : 0,
+        "FlushingID" : "S5",
+        "FacilityID" : "F21A-V025",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575706.61013811233,
+        "y" : 451790.78566225123
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "Id" : 0,
+        "FlushingID" : "6I",
+        "FacilityID" : "C17-V026",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577296.07255807996,
+        "y" : 452355.28601127357
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "Id" : 0,
+        "FlushingID" : "S6",
+        "FacilityID" : "21-V038",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577142.99297123088,
+        "y" : 451035.86780739162
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "Id" : 0,
+        "FlushingID" : "S7",
+        "FacilityID" : "F21A-V027",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575625.04970142455,
+        "y" : 451623.70350702066
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "Id" : 0,
+        "FlushingID" : "I",
+        "FacilityID" : "17A-V016",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574610.08932090935,
+        "y" : 452023.86282716907
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "Id" : 0,
+        "FlushingID" : "J",
+        "FacilityID" : "21A-V009",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574580.0063618701,
+        "y" : 451749.69952219946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "Id" : 0,
+        "FlushingID" : "K",
+        "FacilityID" : "21A-V013",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574837.28012512345,
+        "y" : 451718.14698310976
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "Id" : 0,
+        "FlushingID" : "L",
+        "FacilityID" : "F21A-V015",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575107.31718388805,
+        "y" : 451692.48785906855
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "Id" : 0,
+        "FlushingID" : "M",
+        "FacilityID" : "F21A-V013",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575613.43346477672,
+        "y" : 451628.75439058384
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "Id" : 0,
+        "FlushingID" : "8",
+        "FacilityID" : "FA19-V002",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583057.72152762394,
+        "y" : 453647.76111678011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "Id" : 0,
+        "FlushingID" : "7B",
+        "FacilityID" : "FA22-V016",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581679.32328999997,
+        "y" : 451623.75166000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "Id" : 0,
+        "FlushingID" : "6B",
+        "FacilityID" : "A22-V003",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580575.83463448996,
+        "y" : 451897.76799361827
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "Id" : 0,
+        "FlushingID" : "QC4",
+        "FacilityID" : "FA18-V029",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581335.88800000004,
+        "y" : 452386.43680000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "Id" : 0,
+        "FlushingID" : "7C",
+        "FacilityID" : "FA22-V017",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581680.31193454098,
+        "y" : 451640.15088342596
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "FA19-V007",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583753.82584414154,
+        "y" : 453363.13161763601
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "Id" : 0,
+        "FlushingID" : "10",
+        "FacilityID" : "A23-V024",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585630.53418802947,
+        "y" : 451348.07081593928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "Id" : 0,
+        "FlushingID" : "5B",
+        "FacilityID" : "FA14-V011",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581928.23884999997,
+        "y" : 454454.16615
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "Id" : 0,
+        "FlushingID" : "8B",
+        "FacilityID" : "FA18-V021",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582599.92750927992,
+        "y" : 452879.34696210979
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "Id" : 0,
+        "FlushingID" : "9B",
+        "FacilityID" : "FA19-V011",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583647.57842000003,
+        "y" : 452567.00257999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "Id" : 0,
+        "FlushingID" : "11",
+        "FacilityID" : "A20-V002",
+        "F_Phase" : 1,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586445.3680286319,
+        "y" : 452953.24985448003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "Id" : 0,
+        "FlushingID" : "36",
+        "FacilityID" : "C36-V006",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586340.23491264053,
+        "y" : 445162.96347468067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "Id" : 0,
+        "FlushingID" : "38",
+        "FacilityID" : "A36-V035",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587122.24704319343,
+        "y" : 444383.85878915217
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "Id" : 0,
+        "FlushingID" : "35",
+        "FacilityID" : "C40-V037",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582295.65179007757,
+        "y" : 443634.36839338415
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "Id" : 0,
+        "FlushingID" : "2B",
+        "FacilityID" : "C33-V046",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579597.03124002367,
+        "y" : 444010.9037907531
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "Id" : 0,
+        "FlushingID" : "2B",
+        "FacilityID" : "C33-V046",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579627.14211081294,
+        "y" : 443996.7210049252
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "Id" : 0,
+        "FlushingID" : "3E",
+        "FacilityID" : "C39-V018",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579703.36299885856,
+        "y" : 443704.33788595803
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "Id" : 0,
+        "FlushingID" : "3W",
+        "FacilityID" : "C39-V016",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579601.38385750831,
+        "y" : 443684.75019897922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "Id" : 0,
+        "FlushingID" : "4",
+        "FacilityID" : "F28-V006",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578756.56915999996,
+        "y" : 446910.88793000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "Id" : 0,
+        "FlushingID" : "61",
+        "FacilityID" : "A34-V062",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580606.02465318132,
+        "y" : 444193.28908783616
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "F28-V007",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578762.43933018995,
+        "y" : 446877.26196720329
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "Id" : 0,
+        "FlushingID" : "A",
+        "FacilityID" : "FC30-V004",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583486.47988,
+        "y" : 446987.96651
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "Id" : 0,
+        "FlushingID" : "A1",
+        "FacilityID" : "FC29-V012",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581643.45808022434,
+        "y" : 446249.78250546305
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "Id" : 0,
+        "FlushingID" : "6",
+        "FacilityID" : "F33-V027",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579879.87899,
+        "y" : 445718.71386999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "Id" : 0,
+        "FlushingID" : "1B",
+        "FacilityID" : "FA34-V034",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581906.69394958054,
+        "y" : 444472.76420455385
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "Id" : 0,
+        "FlushingID" : "62",
+        "FacilityID" : "F33-V028",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579896.55270999996,
+        "y" : 445706.53388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "Id" : 0,
+        "FlushingID" : "B",
+        "FacilityID" : "F28-V031",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578162.04026426096,
+        "y" : 446987.41481766966
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "Id" : 0,
+        "FlushingID" : "3",
+        "FacilityID" : "FA33-V002",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577288.19535226794,
+        "y" : 445254.80439301539
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "Id" : 0,
+        "FlushingID" : "7",
+        "FacilityID" : "FA33-V009",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577129.49817000004,
+        "y" : 444427.62075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "Id" : 0,
+        "FlushingID" : "50C",
+        "FacilityID" : "FA38-V031",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576986.33455000003,
+        "y" : 443389.36819000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "Id" : 0,
+        "FlushingID" : "50B",
+        "FacilityID" : "F38-V033",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576967.24127,
+        "y" : 443089.36124
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "Id" : 0,
+        "FlushingID" : "S1",
+        "FacilityID" : "A38-V071",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575488.97600000002,
+        "y" : 443864.93979999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "Id" : 0,
+        "FlushingID" : "S3",
+        "FacilityID" : "A32-V022",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576498.50069999998,
+        "y" : 444282.4363
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "Id" : 0,
+        "FlushingID" : "S2",
+        "FacilityID" : "A38-V073",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575692.87615820137,
+        "y" : 443842.64677991753
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "Id" : 0,
+        "FlushingID" : "7B",
+        "FacilityID" : "FA32-V004",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576580.67700000003,
+        "y" : 444012.61489999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "Id" : 0,
+        "FlushingID" : "7C",
+        "FacilityID" : "FA32-V005",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576584.79749999999,
+        "y" : 444011.77630000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 102,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "FA38-V024",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575409.60023772158,
+        "y" : 443079.93255928793
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 103,
+        "Id" : 0,
+        "FlushingID" : "11",
+        "FacilityID" : " ",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575025.60542784841,
+        "y" : 441904.17503908952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 104,
+        "Id" : 0,
+        "FlushingID" : "8",
+        "FacilityID" : "FA38-V029",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575926.35925996606,
+        "y" : 443180.6550776097
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 105,
+        "Id" : 0,
+        "FlushingID" : "10C",
+        "FacilityID" : "FA38-V022",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575244.03047420597,
+        "y" : 443048.62481749733
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 106,
+        "Id" : 0,
+        "FlushingID" : "10B",
+        "FacilityID" : "FA38-V021",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575230.13023048546,
+        "y" : 443058.61221046007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 107,
+        "Id" : 0,
+        "FlushingID" : "10",
+        "FacilityID" : "FA38-V019",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575089.70215999999,
+        "y" : 443013.79973000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 108,
+        "Id" : 0,
+        "FlushingID" : "17D",
+        "FacilityID" : "A37-V067",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573415.87250194245,
+        "y" : 442086.19240423024
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 109,
+        "Id" : 0,
+        "FlushingID" : "17C",
+        "FacilityID" : "A37-V004",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 572382.16000926238,
+        "y" : 442207.8902662585
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 110,
+        "Id" : 0,
+        "FlushingID" : "52",
+        "FacilityID" : "A44-V019",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576195.96075066447,
+        "y" : 441771.12385883328
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 111,
+        "Id" : 0,
+        "FlushingID" : "52B",
+        "FacilityID" : "F38-V040",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576646.3666159159,
+        "y" : 442241.44027889136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 112,
+        "Id" : 0,
+        "FlushingID" : "51",
+        "FacilityID" : " ",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576795.52450263151,
+        "y" : 441696.34349385381
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 113,
+        "Id" : 0,
+        "FlushingID" : "53",
+        "FacilityID" : "A44-V024",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576790.72298441338,
+        "y" : 441669.12276660779
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 114,
+        "Id" : 0,
+        "FlushingID" : "52C",
+        "FacilityID" : "A38-V038",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576849.91776462749,
+        "y" : 442211.54484278493
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 115,
+        "Id" : 0,
+        "FlushingID" : "52D",
+        "FacilityID" : " ",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576158.49560533115,
+        "y" : 441979.85646836681
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 116,
+        "Id" : 0,
+        "FlushingID" : "54",
+        "FacilityID" : "C44-V053",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575579.18095003604,
+        "y" : 441800.0267887892
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 117,
+        "Id" : 0,
+        "FlushingID" : "23",
+        "FacilityID" : "FA44-V009",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574400.60456000001,
+        "y" : 441959.24894000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 118,
+        "Id" : 0,
+        "FlushingID" : "20",
+        "FacilityID" : "FA44-V015",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575624.71728999994,
+        "y" : 441864.13540000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 119,
+        "Id" : 0,
+        "FlushingID" : "H5",
+        "FacilityID" : "F43-V036",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573338.7593098121,
+        "y" : 441464.34651183255
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 120,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "FA43-V014",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573304.52730471152,
+        "y" : 441058.43594097072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 121,
+        "Id" : 0,
+        "FlushingID" : "H2",
+        "FacilityID" : "A37-V062",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573137.70902916836,
+        "y" : 442002.74397658533
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 122,
+        "Id" : 0,
+        "FlushingID" : "H3",
+        "FacilityID" : "A37-V064",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573130.93723741919,
+        "y" : 442003.53713281127
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 123,
+        "Id" : 0,
+        "FlushingID" : "H1",
+        "FacilityID" : "A37-V063",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573135.09508953919,
+        "y" : 442006.62733830477
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 124,
+        "Id" : 0,
+        "FlushingID" : "16",
+        "FacilityID" : "A44-V014",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575352.34273008106,
+        "y" : 441862.72170952021
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 125,
+        "Id" : 0,
+        "FlushingID" : "15",
+        "FacilityID" : "FA38-V044",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574743.09299999999,
+        "y" : 442576.79499999993
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 126,
+        "Id" : 0,
+        "FlushingID" : "14",
+        "FacilityID" : "FA38-V050",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 574700.69623550237,
+        "y" : 442138.9852161103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 127,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "FA38-V054",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575194.90800000005,
+        "y" : 442641.049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 128,
+        "Id" : 0,
+        "FlushingID" : "22A",
+        "FacilityID" : "FA38-V053",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575190.97245206893,
+        "y" : 442646.25709224388
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 129,
+        "Id" : 0,
+        "FlushingID" : "17B",
+        "FacilityID" : "F37-V014",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 572712.42359999986,
+        "y" : 442441.97240000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 130,
+        "Id" : 0,
+        "FlushingID" : "17E",
+        "FacilityID" : " ",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 573472.6577940362,
+        "y" : 442588.17691639095
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 131,
+        "Id" : 0,
+        "FlushingID" : "17",
+        "FacilityID" : "A44-V026",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576717.88899999997,
+        "y" : 441064.34399999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 132,
+        "Id" : 0,
+        "FlushingID" : "25",
+        "FacilityID" : "F44-V049",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576647.32889091771,
+        "y" : 440503.49134809861
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 133,
+        "Id" : 0,
+        "FlushingID" : "26",
+        "FacilityID" : "FC44-V050",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576601.97947459156,
+        "y" : 440053.56884751114
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 134,
+        "Id" : 0,
+        "FlushingID" : "27B",
+        "FacilityID" : "F49-V012",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576564.58305999998,
+        "y" : 439554.83913000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 135,
+        "Id" : 0,
+        "FlushingID" : "27",
+        "FacilityID" : "C49-V007",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576584.71592575451,
+        "y" : 439784.96351385058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 136,
+        "Id" : 0,
+        "FlushingID" : "32",
+        "FacilityID" : "F44-V075",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576152.03040000005,
+        "y" : 440403.87439999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 137,
+        "Id" : 0,
+        "FlushingID" : "31",
+        "FacilityID" : "FC49-V004",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575759.73138999997,
+        "y" : 439721.17716999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 138,
+        "Id" : 0,
+        "FlushingID" : "31B",
+        "FacilityID" : "C49-V001",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575317.92336348328,
+        "y" : 439764.60712324322
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 139,
+        "Id" : 0,
+        "FlushingID" : "33A",
+        "FacilityID" : "F44-V036",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575564.54830000002,
+        "y" : 440208.05550000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 140,
+        "Id" : 0,
+        "FlushingID" : "33B",
+        "FacilityID" : "F44-V035",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575567.35100000002,
+        "y" : 440227.85680000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 141,
+        "Id" : 0,
+        "FlushingID" : "55",
+        "FacilityID" : "C44-V073",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575054.16155579314,
+        "y" : 440246.7152009813
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 142,
+        "Id" : 0,
+        "FlushingID" : "59",
+        "FacilityID" : "C44-V057",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575301.86869999999,
+        "y" : 441307.97149999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 143,
+        "Id" : 0,
+        "FlushingID" : "58",
+        "FacilityID" : "C44-V062",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575250.68200000003,
+        "y" : 440894.41529999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 144,
+        "Id" : 0,
+        "FlushingID" : "57",
+        "FacilityID" : "C44-V063",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 575247.57220000005,
+        "y" : 440892.26640000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 145,
+        "Id" : 0,
+        "FlushingID" : "33",
+        "FacilityID" : "C44-V037",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576007.35930000001,
+        "y" : 440048.38270000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 146,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "F44-V043",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 576319.03460000001,
+        "y" : 440850.76140000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 147,
+        "Id" : 0,
+        "FlushingID" : "19",
+        "FacilityID" : "F46-V025",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581489.25016000005,
+        "y" : 441579.32428
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 148,
+        "Id" : 0,
+        "FlushingID" : "1A",
+        "FacilityID" : "C46-V024",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581287.89631382329,
+        "y" : 441517.97472195892
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 149,
+        "Id" : 0,
+        "FlushingID" : "1B",
+        "FacilityID" : "FST46-V017",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580384.98198137106,
+        "y" : 441416.08895179012
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 150,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "FC45-V041",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579397.27752,
+        "y" : 441344.99173000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 151,
+        "Id" : 0,
+        "FlushingID" : "11",
+        "FacilityID" : "FST45-V010",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578690.95090699114,
+        "y" : 441286.60685317521
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 152,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "FST39-V039",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579107.83493980882,
+        "y" : 442856.35240205692
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 153,
+        "Id" : 0,
+        "FlushingID" : "6",
+        "FacilityID" : "FST40-V055",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580342.82083107508,
+        "y" : 443625.82314078446
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 154,
+        "Id" : 0,
+        "FlushingID" : "6D",
+        "FacilityID" : "FST40-V010",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580468.70699999994,
+        "y" : 443671.27300000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 155,
+        "Id" : 0,
+        "FlushingID" : "6D",
+        "FacilityID" : "FST40-V010",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580719.88542675506,
+        "y" : 443731.8565425995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 156,
+        "Id" : 0,
+        "FlushingID" : "3E",
+        "FacilityID" : "C39-V018",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579703.36299885856,
+        "y" : 443704.33788595803
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 157,
+        "Id" : 0,
+        "FlushingID" : "7",
+        "FacilityID" : "C40-V036",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582285.74481277389,
+        "y" : 443609.33304812881
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 158,
+        "Id" : 0,
+        "FlushingID" : "6B",
+        "FacilityID" : "FST40-V007",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580286.60614286549,
+        "y" : 443559.80099312402
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 159,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "FST46-V007",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580451.38419511821,
+        "y" : 441497.06679212861
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 160,
+        "Id" : 0,
+        "FlushingID" : "23B",
+        "FacilityID" : "FST39-V077",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579750.80713945511,
+        "y" : 442860.18234599527
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 161,
+        "Id" : 0,
+        "FlushingID" : "13",
+        "FacilityID" : "FST39-V065",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579737.08799999999,
+        "y" : 443193.82299999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 162,
+        "Id" : 0,
+        "FlushingID" : "23A",
+        "FacilityID" : "FC39-V071",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579253.44491939945,
+        "y" : 442826.19598552631
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 163,
+        "Id" : 0,
+        "FlushingID" : "23C",
+        "FacilityID" : "FST39-V075",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579654.92099863978,
+        "y" : 442922.56807697169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 164,
+        "Id" : 0,
+        "FlushingID" : "16",
+        "FacilityID" : "FST46-V089",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580830.86318873416,
+        "y" : 440246.0378855142
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 165,
+        "Id" : 0,
+        "FlushingID" : "17",
+        "FacilityID" : "FST51-V031",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580211.33618634683,
+        "y" : 438898.72713176865
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 166,
+        "Id" : 0,
+        "FlushingID" : "10",
+        "FacilityID" : "FST45-V056",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579040.66345999995,
+        "y" : 441148.44201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 167,
+        "Id" : 0,
+        "FlushingID" : "21",
+        "FacilityID" : "FC45-V039",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579071.31530000002,
+        "y" : 441422.89760999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 168,
+        "Id" : 0,
+        "FlushingID" : "3W",
+        "FacilityID" : "C39-V016",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579601.38385750831,
+        "y" : 443684.75019897922
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 169,
+        "Id" : 0,
+        "FlushingID" : "15",
+        "FacilityID" : "FC51-V013",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580877.16486999998,
+        "y" : 439656.17810000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 170,
+        "Id" : 0,
+        "FlushingID" : "12",
+        "FacilityID" : "FST39-V041",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579072.65318580018,
+        "y" : 442670.60609436489
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 171,
+        "Id" : 0,
+        "FlushingID" : "18C",
+        "FacilityID" : "FST51-V048",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580917.06331813755,
+        "y" : 438391.84698810201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 172,
+        "Id" : 0,
+        "FlushingID" : "18",
+        "FacilityID" : "FST51-V045",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580886.8071150427,
+        "y" : 438265.0726982606
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 173,
+        "Id" : 0,
+        "FlushingID" : "18D",
+        "FacilityID" : "FST51-V052",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581038.57042740914,
+        "y" : 438613.65196467022
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 174,
+        "Id" : 0,
+        "FlushingID" : "20",
+        "FacilityID" : "FST50-V128",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579166.58060915803,
+        "y" : 438514.25682663784
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 175,
+        "Id" : 0,
+        "FlushingID" : "25",
+        "FacilityID" : "FST50-V159",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579845.69766721316,
+        "y" : 438079.36120944045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 176,
+        "Id" : 0,
+        "FlushingID" : "25A",
+        "FacilityID" : "FST50-V161",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579952.83770939871,
+        "y" : 438038.57511617086
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 177,
+        "Id" : 0,
+        "FlushingID" : "18B",
+        "FacilityID" : "FST51-V046",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580860.21127724077,
+        "y" : 438302.48219140148
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 178,
+        "Id" : 0,
+        "FlushingID" : "26A",
+        "FacilityID" : "FC46-V087",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580752.08900000004,
+        "y" : 440233.15899999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 179,
+        "Id" : 0,
+        "FlushingID" : "26",
+        "FacilityID" : "FC46-V084",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580604.6726589438,
+        "y" : 440246.96165528358
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 180,
+        "Id" : 0,
+        "FlushingID" : "35",
+        "FacilityID" : "FST51-V067",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581489.88546231366,
+        "y" : 439595.83012329525
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 181,
+        "Id" : 0,
+        "FlushingID" : "34",
+        "FacilityID" : "FST51-V066",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581499.22002899996,
+        "y" : 439573.04600600002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 182,
+        "Id" : 0,
+        "FlushingID" : "27",
+        "FacilityID" : "FST50-V023",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577035.55032200005,
+        "y" : 439709.14800599997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 183,
+        "Id" : 0,
+        "FlushingID" : "27A",
+        "FacilityID" : "FST50-V025",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577057.19365437981,
+        "y" : 439520.18014586589
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 184,
+        "Id" : 0,
+        "FlushingID" : "28",
+        "FacilityID" : "FST50-V083",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578102.94996999996,
+        "y" : 439007.75378000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 185,
+        "Id" : 0,
+        "FlushingID" : "28A",
+        "FacilityID" : "FST50-V081",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578041.49245724699,
+        "y" : 438975.15640464838
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 186,
+        "Id" : 0,
+        "FlushingID" : "27C",
+        "FacilityID" : "FC50-V047",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578385.05396000005,
+        "y" : 439580.09557
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 187,
+        "Id" : 0,
+        "FlushingID" : "32",
+        "FacilityID" : "FST50-V067",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577319.89608281548,
+        "y" : 439055.97396893171
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 188,
+        "Id" : 0,
+        "FlushingID" : "31",
+        "FacilityID" : "FST50-V042",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577713.85642173723,
+        "y" : 439247.37122166046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 189,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "FC50-V162",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579838.04066000006,
+        "y" : 438003.51393000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 190,
+        "Id" : 0,
+        "FlushingID" : "33",
+        "FacilityID" : "FC55-V004",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580393.21904,
+        "y" : 437891.38743
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 191,
+        "Id" : 0,
+        "FlushingID" : "37",
+        "FacilityID" : "FST50-V154",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579861.48908997269,
+        "y" : 438330.32946301601
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 192,
+        "Id" : 0,
+        "FlushingID" : "36",
+        "FacilityID" : "FC50-V158",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579810.22036000004,
+        "y" : 438058.27275
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 193,
+        "Id" : 0,
+        "FlushingID" : "19C",
+        "FacilityID" : "FST46-V068",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580872.76710407727,
+        "y" : 440645.66336199356
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 194,
+        "Id" : 0,
+        "FlushingID" : "19B",
+        "FacilityID" : "FST46-V049",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581159.87482493161,
+        "y" : 441030.01909100218
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 195,
+        "Id" : 0,
+        "FlushingID" : "50N",
+        "FacilityID" : "FC50-V010",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578849.55986499996,
+        "y" : 439771.077475
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 196,
+        "Id" : 0,
+        "FlushingID" : "50S",
+        "FacilityID" : "FC50-V011",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578848.81559999997,
+        "y" : 439765.44452199998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 197,
+        "Id" : 0,
+        "FlushingID" : "51N",
+        "FacilityID" : "FC50-V013",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579220.21043199999,
+        "y" : 439724.30321799999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 198,
+        "Id" : 0,
+        "FlushingID" : "51S",
+        "FacilityID" : "FC50-V015",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579219.45431199996,
+        "y" : 439719.86414700001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 199,
+        "Id" : 0,
+        "FlushingID" : "52N",
+        "FacilityID" : "FC50-V016",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579586.84018699999,
+        "y" : 439678.88412900001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 200,
+        "Id" : 0,
+        "FlushingID" : "52N",
+        "FacilityID" : "FC50-V018",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579586.600171,
+        "y" : 439674.14305800002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 201,
+        "Id" : 0,
+        "FlushingID" : "53N",
+        "FacilityID" : "FC50-V020",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579953.62612499995,
+        "y" : 439633.26510100003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 202,
+        "Id" : 0,
+        "FlushingID" : "53S",
+        "FacilityID" : "FC50-V021",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579953.38116700004,
+        "y" : 439628.48960199999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 203,
+        "Id" : 0,
+        "FlushingID" : "54W",
+        "FacilityID" : "FC51-V001",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580318.57084599999,
+        "y" : 439584.01751400001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 204,
+        "Id" : 0,
+        "FlushingID" : "55S",
+        "FacilityID" : "FC45-V079",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578976.99300000002,
+        "y" : 440765.96500000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 205,
+        "Id" : 0,
+        "FlushingID" : "56N",
+        "FacilityID" : "FC50-V004",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577748.73664799996,
+        "y" : 439908.428159
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 206,
+        "Id" : 0,
+        "FlushingID" : "50W",
+        "FacilityID" : "FC50-V009",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578846.168083,
+        "y" : 439768.44539900002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 207,
+        "Id" : 0,
+        "FlushingID" : "57S",
+        "FacilityID" : "FC45-V083",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579345.15700000001,
+        "y" : 440721.83399999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 208,
+        "Id" : 0,
+        "FlushingID" : "58S",
+        "FacilityID" : "FC45-V085",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579713.04004999995,
+        "y" : 440675.32988799998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 209,
+        "Id" : 0,
+        "FlushingID" : "51E",
+        "FacilityID" : "FC50-V014",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579221.73705,
+        "y" : 439721.83727100003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 210,
+        "Id" : 0,
+        "FlushingID" : "52E",
+        "FacilityID" : "FC50-V017",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579589.08749199996,
+        "y" : 439676.56302499998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 211,
+        "Id" : 0,
+        "FlushingID" : "59S",
+        "FacilityID" : "FC46-V075",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580079.89928300004,
+        "y" : 440630.518622
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 212,
+        "Id" : 0,
+        "FlushingID" : "55W",
+        "FacilityID" : "FC45-V079",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578974.76500000001,
+        "y" : 440768.48100000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 213,
+        "Id" : 0,
+        "FlushingID" : "2",
+        "FacilityID" : "FC45-V055",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579002.31721999997,
+        "y" : 441079.08809999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 214,
+        "Id" : 0,
+        "FlushingID" : "60W",
+        "FacilityID" : "F45-V092",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578366.34159299999,
+        "y" : 440287.22122800001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 215,
+        "Id" : 0,
+        "FlushingID" : "61E",
+        "FacilityID" : "FC50-V102",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578803.206228,
+        "y" : 438748.099254
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 216,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "FC46-V077",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 580418.45941000001,
+        "y" : 440338.57741000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 217,
+        "Id" : 0,
+        "FlushingID" : "29",
+        "FacilityID" : "FST50-V115",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578808.71200787975,
+        "y" : 438618.67791789176
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 218,
+        "Id" : 0,
+        "FlushingID" : "61N",
+        "FacilityID" : "FC-V103",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 578799.98110500001,
+        "y" : 438749.343918
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 219,
+        "Id" : 0,
+        "FlushingID" : "56W",
+        "FacilityID" : "FC50-V003",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 577746.19214699999,
+        "y" : 439906.02615799999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 220,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "A48-V019",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587268.1875,
+        "y" : 440604.48969999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 221,
+        "Id" : 0,
+        "FlushingID" : "31",
+        "FacilityID" : "A48-V029",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586782.10959999997,
+        "y" : 440798.68449999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 222,
+        "Id" : 0,
+        "FlushingID" : "4X",
+        "FacilityID" : "A53-V016",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587371.43671236897,
+        "y" : 439947.3774391028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 223,
+        "Id" : 0,
+        "FlushingID" : "19B",
+        "FacilityID" : "A48-V003",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586199.12890000001,
+        "y" : 440741.158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 224,
+        "Id" : 0,
+        "FlushingID" : "4Y",
+        "FacilityID" : "A53-V018",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587466.51283027651,
+        "y" : 439456.10423119797
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 225,
+        "Id" : 0,
+        "FlushingID" : "1",
+        "FacilityID" : "FC56-V027",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583839.22553254059,
+        "y" : 436727.11294349091
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 226,
+        "Id" : 0,
+        "FlushingID" : "31B",
+        "FacilityID" : "A48-V028",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586778.72629999998,
+        "y" : 440801.82250000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 227,
+        "Id" : 0,
+        "FlushingID" : "30B",
+        "FacilityID" : "A48-V018",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587267.81610000005,
+        "y" : 440610.99550000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 228,
+        "Id" : 0,
+        "FlushingID" : "6B",
+        "FacilityID" : "F53-V058",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586937.24607405346,
+        "y" : 438492.1137356055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 229,
+        "Id" : 0,
+        "FlushingID" : "6",
+        "FacilityID" : "F53-V055",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586909.90954474628,
+        "y" : 438448.99444526841
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 230,
+        "Id" : 0,
+        "FlushingID" : "7",
+        "FacilityID" : "F53-V045",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586904.33203000005,
+        "y" : 438202.63615199999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 231,
+        "Id" : 0,
+        "FlushingID" : "8",
+        "FacilityID" : "F57-V020",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586726.70549999992,
+        "y" : 437719.41159999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 232,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "F57-V015",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586530.93949999998,
+        "y" : 437586.99250000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 233,
+        "Id" : 0,
+        "FlushingID" : "12B",
+        "FacilityID" : "F57-V096",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586354.25460387953,
+        "y" : 436151.31610066845
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 234,
+        "Id" : 0,
+        "FlushingID" : "10A",
+        "FacilityID" : "F57-V083",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586828.19649999996,
+        "y" : 436275.92910000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 235,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "C53-V071",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587414.32063895068,
+        "y" : 438894.84276609315
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 236,
+        "Id" : 0,
+        "FlushingID" : "13",
+        "FacilityID" : "F53-V064",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587253.08512399998,
+        "y" : 438666.88475700002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 237,
+        "Id" : 0,
+        "FlushingID" : "14",
+        "FacilityID" : "FC53-V065",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587218.049963,
+        "y" : 438680.71103100001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 238,
+        "Id" : 0,
+        "FlushingID" : "11B",
+        "FacilityID" : "F57-V052",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586045.61990000005,
+        "y" : 436627.86009999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 239,
+        "Id" : 0,
+        "FlushingID" : "15",
+        "FacilityID" : "F57-V029",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586960.66429999983,
+        "y" : 437497.90220000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 240,
+        "Id" : 0,
+        "FlushingID" : "16",
+        "FacilityID" : "F57-V031",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587103.2463,
+        "y" : 437590.2781
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 241,
+        "Id" : 0,
+        "FlushingID" : "17",
+        "FacilityID" : "F57-V032",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587104.10129999998,
+        "y" : 437579.00809999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 242,
+        "Id" : 0,
+        "FlushingID" : "18N",
+        "FacilityID" : "F57-V099",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586567.21810000006,
+        "y" : 436055.59730000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 243,
+        "Id" : 0,
+        "FlushingID" : "20",
+        "FacilityID" : "F57-V085",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587048.15339999995,
+        "y" : 436385.90159999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 244,
+        "Id" : 0,
+        "FlushingID" : "18W",
+        "FacilityID" : "F57-V097",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586491.51549999998,
+        "y" : 436049.10869999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 245,
+        "Id" : 0,
+        "FlushingID" : "18S",
+        "FacilityID" : "F59-V004",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586540.274330243,
+        "y" : 435950.52203419048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 246,
+        "Id" : 0,
+        "FlushingID" : "18E",
+        "FacilityID" : "F59-V005",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586577.54369999992,
+        "y" : 435929.52779999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 247,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "F59-V017",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586686.1921000001,
+        "y" : 435713.03610000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 248,
+        "Id" : 0,
+        "FlushingID" : "19B",
+        "FacilityID" : "F59-V034",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586764.33209999988,
+        "y" : 435481.11810000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 249,
+        "Id" : 0,
+        "FlushingID" : "24B",
+        "FacilityID" : "F59-V033",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586738.18999999994,
+        "y" : 435503.02290000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 250,
+        "Id" : 0,
+        "FlushingID" : "23",
+        "FacilityID" : "F59-V043",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586828.60750000004,
+        "y" : 435252.43609999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 251,
+        "Id" : 0,
+        "FlushingID" : "25",
+        "FacilityID" : "F59-V040",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586728.57629999984,
+        "y" : 435049.50999999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 252,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "F59-V070",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586399.3923999999,
+        "y" : 435009.83149999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 253,
+        "Id" : 0,
+        "FlushingID" : "26",
+        "FacilityID" : "F58-V057",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585987.55529999989,
+        "y" : 435067.24770000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 254,
+        "Id" : 0,
+        "FlushingID" : "27",
+        "FacilityID" : "F58-V053",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585690.26529999985,
+        "y" : 435068.33829999994
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 255,
+        "Id" : 0,
+        "FlushingID" : "28",
+        "FacilityID" : "F58-V030",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585450.40449999995,
+        "y" : 435475.13429999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 256,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "F56-V140",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585500.40949999983,
+        "y" : 436115.62229999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 257,
+        "Id" : 0,
+        "FlushingID" : "29",
+        "FacilityID" : "F56-V143",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585655.85709999991,
+        "y" : 436248.04690000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 258,
+        "Id" : 0,
+        "FlushingID" : "23B",
+        "FacilityID" : "F59-V035",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586811.70745306858,
+        "y" : 435474.12355997541
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 259,
+        "Id" : 0,
+        "FlushingID" : "19",
+        "FacilityID" : "F59-V019",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586765.42769999988,
+        "y" : 435697.71659999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 260,
+        "Id" : 0,
+        "FlushingID" : "25B",
+        "FacilityID" : "F59-V062",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587220.64839999983,
+        "y" : 434723.83480000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 261,
+        "Id" : 0,
+        "FlushingID" : "25C",
+        "FacilityID" : "F59-V069",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586310.25600000005,
+        "y" : 434956.60359999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 262,
+        "Id" : 0,
+        "FlushingID" : "25D",
+        "FacilityID" : "C59-V059",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587056.05567548308,
+        "y" : 434835.19584621163
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 263,
+        "Id" : 0,
+        "FlushingID" : "27C",
+        "FacilityID" : "F58-V037",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585263.23069999996,
+        "y" : 435377.01510000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 264,
+        "Id" : 0,
+        "FlushingID" : "28C",
+        "FacilityID" : "F58-V051",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585627.06920000003,
+        "y" : 435205.20789999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 265,
+        "Id" : 0,
+        "FlushingID" : "27E",
+        "FacilityID" : "F58-V044",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585078.71789999993,
+        "y" : 435218.92330000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 266,
+        "Id" : 0,
+        "FlushingID" : "28B",
+        "FacilityID" : "F58-V031",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585442.40289999987,
+        "y" : 435442.08360000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 267,
+        "Id" : 0,
+        "FlushingID" : "29B",
+        "FacilityID" : "FC56-V142",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585593.40788279648,
+        "y" : 436148.98304304748
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 268,
+        "Id" : 0,
+        "FlushingID" : "31",
+        "FacilityID" : "F58-V019",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585489.60329999996,
+        "y" : 435916.89199999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 269,
+        "Id" : 0,
+        "FlushingID" : "12C",
+        "FacilityID" : "F56-V144",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585818.9338,
+        "y" : 436300.0808
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 270,
+        "Id" : 0,
+        "FlushingID" : "32",
+        "FacilityID" : "F56-V053",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585333.65519999992,
+        "y" : 437558.96350000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 271,
+        "Id" : 0,
+        "FlushingID" : "33",
+        "FacilityID" : "F56-V060",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585149.40689999994,
+        "y" : 437439.0661
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 272,
+        "Id" : 0,
+        "FlushingID" : "34",
+        "FacilityID" : "F56-V076",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584855.09450000001,
+        "y" : 436968.1654
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 273,
+        "Id" : 0,
+        "FlushingID" : "9B",
+        "FacilityID" : "F57-V002",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586097.08059999999,
+        "y" : 437791.21000000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 274,
+        "Id" : 0,
+        "FlushingID" : "9C",
+        "FacilityID" : "F57-V009",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586114.83270000003,
+        "y" : 437727.01189999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 275,
+        "Id" : 0,
+        "FlushingID" : "9D",
+        "FacilityID" : "F57-V001",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586088.91390000004,
+        "y" : 437824.06069999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 276,
+        "Id" : 0,
+        "FlushingID" : "35",
+        "FacilityID" : "F56-V120",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585198.397,
+        "y" : 436654.17999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 277,
+        "Id" : 0,
+        "FlushingID" : "35B",
+        "FacilityID" : "F56-V119",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585118.50459999987,
+        "y" : 436634.11200000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 278,
+        "Id" : 0,
+        "FlushingID" : "1B",
+        "FacilityID" : "C56-V101",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583907.80423941859,
+        "y" : 436565.03507058253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 279,
+        "Id" : 0,
+        "FlushingID" : "36",
+        "FacilityID" : "F56-V109",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584417.28407109599,
+        "y" : 436695.25875459274
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 280,
+        "Id" : 0,
+        "FlushingID" : "35C",
+        "FacilityID" : "F56-V122",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585158.46340000001,
+        "y" : 436591.08860000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 281,
+        "Id" : 0,
+        "FlushingID" : "2B",
+        "FacilityID" : "F56-V044",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585678.83349999983,
+        "y" : 437822.44410000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 282,
+        "Id" : 0,
+        "FlushingID" : "32B",
+        "FacilityID" : "F56-V052",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585378.31619999988,
+        "y" : 437612.16320000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 283,
+        "Id" : 0,
+        "FlushingID" : "4X",
+        "FacilityID" : "A53-V016",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587371.43671236897,
+        "y" : 439947.3774391028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 284,
+        "Id" : 0,
+        "FlushingID" : "4",
+        "FacilityID" : "FA53-V010",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586825.11410000001,
+        "y" : 439832.11749999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 285,
+        "Id" : 0,
+        "FlushingID" : "1",
+        "FacilityID" : "FA53-V005",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586019.28934183612,
+        "y" : 439882.89440783125
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 286,
+        "Id" : 0,
+        "FlushingID" : "2",
+        "FacilityID" : "FA53-V002",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586059.04000000004,
+        "y" : 439993.6507
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 287,
+        "Id" : 0,
+        "FlushingID" : "3B",
+        "FacilityID" : "FA53-V011",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586867.82929999998,
+        "y" : 439846.89980000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 288,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "FA53-V009",
+        "F_Phase" : 4,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586822.74419999996,
+        "y" : 439834.02759999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 289,
+        "Id" : 0,
+        "FlushingID" : "6B",
+        "FacilityID" : "FA48-V007",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586019.82790000003,
+        "y" : 440195.21240000008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 290,
+        "Id" : 0,
+        "FlushingID" : "8C",
+        "FacilityID" : "FA47-V084",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585210.95100000012,
+        "y" : 440361.98369999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 291,
+        "Id" : 0,
+        "FlushingID" : "8B",
+        "FacilityID" : "FA47-V089",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585887.28760000004,
+        "y" : 440364.92820000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 292,
+        "Id" : 0,
+        "FlushingID" : "19B",
+        "FacilityID" : "FA48-V003",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586199.12890000001,
+        "y" : 440741.158
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 293,
+        "Id" : 0,
+        "FlushingID" : "9B",
+        "FacilityID" : "FA47-V068",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585813.85889999999,
+        "y" : 440838.34139999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 294,
+        "Id" : 0,
+        "FlushingID" : "9C",
+        "FacilityID" : "FA47-V070",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585811.39300000004,
+        "y" : 440798.05280000006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 295,
+        "Id" : 0,
+        "FlushingID" : "10B",
+        "FacilityID" : "FA47-V062",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585522.07510000002,
+        "y" : 441032.0233
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 296,
+        "Id" : 0,
+        "FlushingID" : "11B",
+        "FacilityID" : "FA47-V059",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585330.96739999996,
+        "y" : 440976.69750000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 297,
+        "Id" : 0,
+        "FlushingID" : "12B",
+        "FacilityID" : "FA47-V058",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585282.22569999995,
+        "y" : 440950.84950000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 298,
+        "Id" : 0,
+        "FlushingID" : "13B",
+        "FacilityID" : "FA47-V054",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585181.20449999999,
+        "y" : 440860.11210000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 299,
+        "Id" : 0,
+        "FlushingID" : "14D",
+        "FacilityID" : "FA47-V083",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585205.89489999996,
+        "y" : 440349.49979999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 300,
+        "Id" : 0,
+        "FlushingID" : "15B",
+        "FacilityID" : "FA47-V085",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585206.63260000001,
+        "y" : 440103.87270000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 301,
+        "Id" : 0,
+        "FlushingID" : "15D",
+        "FacilityID" : "FA47-V086",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585203.10919999995,
+        "y" : 440098.97450000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 302,
+        "Id" : 0,
+        "FlushingID" : "18",
+        "FacilityID" : "FA52-V068",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585294.24250000005,
+        "y" : 439614.50880000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 303,
+        "Id" : 0,
+        "FlushingID" : "3C",
+        "FacilityID" : "FA53-V001",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586059.62829999998,
+        "y" : 439997.5882
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 304,
+        "Id" : 0,
+        "FlushingID" : "9D",
+        "FacilityID" : "FA47-V069",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585813.18640000001,
+        "y" : 440800.92609999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 305,
+        "Id" : 0,
+        "FlushingID" : "20B",
+        "FacilityID" : "A47-V051",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585020.22988949693,
+        "y" : 441232.45900443429
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 306,
+        "Id" : 0,
+        "FlushingID" : "11C",
+        "FacilityID" : "FA47-V060",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585334.13285569276,
+        "y" : 440975.79245826654
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 307,
+        "Id" : 0,
+        "FlushingID" : "21B",
+        "FacilityID" : "FA47-V078",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585165.13619999995,
+        "y" : 440582.92209999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 308,
+        "Id" : 0,
+        "FlushingID" : "12C",
+        "FacilityID" : "FA47-V057",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585279.8578,
+        "y" : 440951.65850000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 309,
+        "Id" : 0,
+        "FlushingID" : "14C",
+        "FacilityID" : "FA47-V082",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585209.33909999998,
+        "y" : 440363.94579999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 310,
+        "Id" : 0,
+        "FlushingID" : "15C",
+        "FacilityID" : "FA47-V085",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585205.06550000003,
+        "y" : 440101.68609999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 311,
+        "Id" : 0,
+        "FlushingID" : "16B",
+        "FacilityID" : "FA52-V059",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585298.98080000002,
+        "y" : 439929.55180000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 312,
+        "Id" : 0,
+        "FlushingID" : "16C",
+        "FacilityID" : "FA52-V060",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585296.41249999998,
+        "y" : 439928.77250000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 313,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "FA52-V065",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585812.45750000002,
+        "y" : 439886.35759999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 314,
+        "Id" : 0,
+        "FlushingID" : "30B",
+        "FacilityID" : "FC52-V071",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585407.35742999997,
+        "y" : 439341.03534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 315,
+        "Id" : 0,
+        "FlushingID" : "30C",
+        "FacilityID" : "FC52-V074",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585613.03833000001,
+        "y" : 439364.12204000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 316,
+        "Id" : 0,
+        "FlushingID" : "40C",
+        "FacilityID" : "FC47-V039",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584338.43573000003,
+        "y" : 440773.90154000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 317,
+        "Id" : 0,
+        "FlushingID" : "20C",
+        "FacilityID" : "FA47-V052",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585037.37765000004,
+        "y" : 441231.25305
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 318,
+        "Id" : 0,
+        "FlushingID" : "1",
+        "FacilityID" : "FC55-V021",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581642.47769872518,
+        "y" : 436756.95285514754
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 319,
+        "Id" : 0,
+        "FlushingID" : "2",
+        "FacilityID" : "FC55-V024",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581907.58357519517,
+        "y" : 436635.9795395956
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 320,
+        "Id" : 0,
+        "FlushingID" : "3",
+        "FacilityID" : "C55-V044",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582251.53592052904,
+        "y" : 436507.52936807671
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 321,
+        "Id" : 0,
+        "FlushingID" : "4",
+        "FacilityID" : "FC55-V030",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581531.55612999992,
+        "y" : 437286.85804000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 322,
+        "Id" : 0,
+        "FlushingID" : "5",
+        "FacilityID" : "FC47-V021",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583177.50772999995,
+        "y" : 440013.95744000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 323,
+        "Id" : 0,
+        "FlushingID" : "6",
+        "FacilityID" : "FC47-V017",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583517.83203000005,
+        "y" : 440257.01088999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 324,
+        "Id" : 0,
+        "FlushingID" : "7",
+        "FacilityID" : "FC47-V012",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583826.04906087369,
+        "y" : 440312.75006924279
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 325,
+        "Id" : 0,
+        "FlushingID" : "8",
+        "FacilityID" : "FC47-V044",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584007.81980000006,
+        "y" : 440253.38293000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 326,
+        "Id" : 0,
+        "FlushingID" : "40B",
+        "FacilityID" : "FC47-V038",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584345.84473000001,
+        "y" : 440789.51154000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 327,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "FC52-V056",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584535.69644043164,
+        "y" : 439634.48723090539
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 328,
+        "Id" : 0,
+        "FlushingID" : "9C",
+        "FacilityID" : "FC52-V042",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584523.66045186226,
+        "y" : 439483.34577999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 329,
+        "Id" : 0,
+        "FlushingID" : "4Y",
+        "FacilityID" : "A53-V019",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587466.51283027651,
+        "y" : 439456.10423119797
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 330,
+        "Id" : 0,
+        "FlushingID" : "10",
+        "FacilityID" : "FC52-V034",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584492.84628932388,
+        "y" : 439035.25610166963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 331,
+        "Id" : 0,
+        "FlushingID" : "11",
+        "FacilityID" : "FC52-V030",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584364.30518999998,
+        "y" : 438702.65853000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 332,
+        "Id" : 0,
+        "FlushingID" : "12",
+        "FacilityID" : "FC52-V021",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583442.36064492364,
+        "y" : 438483.04094709147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 333,
+        "Id" : 0,
+        "FlushingID" : "13",
+        "FacilityID" : "FC52-V018",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583277.12745558668,
+        "y" : 438553.41981083481
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 334,
+        "Id" : 0,
+        "FlushingID" : "14",
+        "FacilityID" : "FC52-V014",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583028.45723465644,
+        "y" : 438618.06609669433
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 335,
+        "Id" : 0,
+        "FlushingID" : "15",
+        "FacilityID" : "FC51-V081",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582629.51359750074,
+        "y" : 438963.52309210668
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 336,
+        "Id" : 0,
+        "FlushingID" : "15B",
+        "FacilityID" : "FC51-V081",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582629.39736922551,
+        "y" : 438978.65627083136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 337,
+        "Id" : 0,
+        "FlushingID" : "4B",
+        "FacilityID" : "FC55-V034",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581629.6260568382,
+        "y" : 437548.63786633342
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 338,
+        "Id" : 0,
+        "FlushingID" : "16C",
+        "FacilityID" : "FC51-V086",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582254.93999999994,
+        "y" : 438330.72999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 339,
+        "Id" : 0,
+        "FlushingID" : "14B",
+        "FacilityID" : "FC52-V012",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583029.58024437237,
+        "y" : 438636.53252325754
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 340,
+        "Id" : 0,
+        "FlushingID" : "13C",
+        "FacilityID" : "FC52-V019",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583281.72542301589,
+        "y" : 438535.76728775928
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 341,
+        "Id" : 0,
+        "FlushingID" : "14C",
+        "FacilityID" : "FC52-V013",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583045.91118552315,
+        "y" : 438627.32531749172
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 342,
+        "Id" : 0,
+        "FlushingID" : "17",
+        "FacilityID" : "FC52-V008",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583403.61473000003,
+        "y" : 439194.47954000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 343,
+        "Id" : 0,
+        "FlushingID" : "17B",
+        "FacilityID" : "FC52-V011",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583316.12272999994,
+        "y" : 438708.90054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 344,
+        "Id" : 0,
+        "FlushingID" : "5B",
+        "FacilityID" : "FC51-V076",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582960.52181295841,
+        "y" : 439541.66301000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 345,
+        "Id" : 0,
+        "FlushingID" : "7B",
+        "FacilityID" : "FC47-V008",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583796.3775855666,
+        "y" : 440942.4572651115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 346,
+        "Id" : 0,
+        "FlushingID" : "7C",
+        "FacilityID" : "FC47-V011",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583821.73852999997,
+        "y" : 440521.65124000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 347,
+        "Id" : 0,
+        "FlushingID" : "7D",
+        "FacilityID" : "FC47-V005",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583772.71442999993,
+        "y" : 440982.91084000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 348,
+        "Id" : 0,
+        "FlushingID" : "6B",
+        "FacilityID" : "FC47-V025",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583318.92553000001,
+        "y" : 440442.66124000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 349,
+        "Id" : 0,
+        "FlushingID" : "6C",
+        "FacilityID" : "FC47-V025",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583316.40162999998,
+        "y" : 440440.18314000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 350,
+        "Id" : 0,
+        "FlushingID" : "17C",
+        "FacilityID" : "C52-V047",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583904.38572999998,
+        "y" : 439579.79754
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 351,
+        "Id" : 0,
+        "FlushingID" : "17D",
+        "FacilityID" : "C52-V048",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583899.93573000003,
+        "y" : 439583.23854000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 352,
+        "Id" : 0,
+        "FlushingID" : "7E",
+        "FacilityID" : "F47-V015",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583822.45861987059,
+        "y" : 440305.91538627219
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 353,
+        "Id" : 0,
+        "FlushingID" : "11B",
+        "FacilityID" : "FC52-V022",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583808.7391378117,
+        "y" : 438385.27423153963
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 354,
+        "Id" : 0,
+        "FlushingID" : "12B",
+        "FacilityID" : "FC52-V024",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584053.93962836266,
+        "y" : 438284.90241256601
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 355,
+        "Id" : 0,
+        "FlushingID" : "40C",
+        "FacilityID" : "FC47-V039",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584338.43573000003,
+        "y" : 440773.90154000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 356,
+        "Id" : 0,
+        "FlushingID" : "9B",
+        "FacilityID" : "FC52-V057",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584687.93972999998,
+        "y" : 439637.04554000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 357,
+        "Id" : 0,
+        "FlushingID" : "3B",
+        "FacilityID" : "C55-V046",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582268.50996549858,
+        "y" : 436486.31818016688
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 358,
+        "Id" : 0,
+        "FlushingID" : "18",
+        "FacilityID" : "FC55-V048",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582565.20319999999,
+        "y" : 436506.95140000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 359,
+        "Id" : 0,
+        "FlushingID" : "19",
+        "FacilityID" : "C55-V051",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582642.59202999994,
+        "y" : 436561.98564000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 360,
+        "Id" : 0,
+        "FlushingID" : "19C",
+        "FacilityID" : "FC56-V015",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583669.56315632293,
+        "y" : 436621.07569075952
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 361,
+        "Id" : 0,
+        "FlushingID" : "19D",
+        "FacilityID" : "FC56-V029",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583925.10072999983,
+        "y" : 436872.33654000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 362,
+        "Id" : 0,
+        "FlushingID" : "21",
+        "FacilityID" : "FC56-V033",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584033.72467446933,
+        "y" : 437041.29664055817
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 363,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "FC56-V039",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585021.20027506351,
+        "y" : 437653.10404217098
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 364,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "FC52-V109",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585316.26293291687,
+        "y" : 438202.50171425968
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 365,
+        "Id" : 0,
+        "FlushingID" : "30",
+        "FacilityID" : "FC52-V070",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585411.26902999997,
+        "y" : 439345.62294000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 366,
+        "Id" : 0,
+        "FlushingID" : "30B",
+        "FacilityID" : "FC52-V071",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585407.35742999997,
+        "y" : 439341.03534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 367,
+        "Id" : 0,
+        "FlushingID" : "30C",
+        "FacilityID" : "FC52-V074",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585613.03833000001,
+        "y" : 439364.12204000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 368,
+        "Id" : 0,
+        "FlushingID" : "25C",
+        "FacilityID" : "FC52-V093",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585317.68050000002,
+        "y" : 438805.60720000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 369,
+        "Id" : 0,
+        "FlushingID" : "28",
+        "FacilityID" : "FC52-V083",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585661.96142638114,
+        "y" : 438943.9585886515
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 370,
+        "Id" : 0,
+        "FlushingID" : "28B",
+        "FacilityID" : "FC52-V086",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585869.81668000005,
+        "y" : 438981.57351999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 371,
+        "Id" : 0,
+        "FlushingID" : "31B",
+        "FacilityID" : "FC53-V022",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 587043.13566975016,
+        "y" : 439435.87369747437
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 372,
+        "Id" : 0,
+        "FlushingID" : "29",
+        "FacilityID" : "FC53-V026",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586025.25389855565,
+        "y" : 439105.96105177718
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 373,
+        "Id" : 0,
+        "FlushingID" : "30D",
+        "FacilityID" : "FC52-V075",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585615.96302999998,
+        "y" : 439362.99074000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 374,
+        "Id" : 0,
+        "FlushingID" : "18B",
+        "FacilityID" : "FC56-V013",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583208.20640000002,
+        "y" : 436639.179
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 375,
+        "Id" : 0,
+        "FlushingID" : "19E",
+        "FacilityID" : "FC55-V057",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582872.21291779669,
+        "y" : 437138.99758856051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 376,
+        "Id" : 0,
+        "FlushingID" : "19F",
+        "FacilityID" : "FC55-V058",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582877.70912314323,
+        "y" : 437158.85617944202
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 377,
+        "Id" : 0,
+        "FlushingID" : "19G",
+        "FacilityID" : "FC56-V009",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583226.78000000003,
+        "y" : 436989.38199999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 378,
+        "Id" : 0,
+        "FlushingID" : "19H",
+        "FacilityID" : "FC56-V006",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583202.01932448091,
+        "y" : 437260.02179467096
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 379,
+        "Id" : 0,
+        "FlushingID" : "26",
+        "FacilityID" : "FC56-V024",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583728.09329999995,
+        "y" : 436272.00799999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 380,
+        "Id" : 0,
+        "FlushingID" : "27",
+        "FacilityID" : "FC56-V149",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584394.74162999995,
+        "y" : 436147.51724000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 381,
+        "Id" : 0,
+        "FlushingID" : "26B",
+        "FacilityID" : "FC56-V025",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583731.40240000002,
+        "y" : 436273.5282
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 382,
+        "Id" : 0,
+        "FlushingID" : "27B",
+        "FacilityID" : "FC58-V002",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584072.32420000003,
+        "y" : 435756.15389999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 383,
+        "Id" : 0,
+        "FlushingID" : "21B",
+        "FacilityID" : "FC56-V037",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584733.58614616736,
+        "y" : 437456.61421898374
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 384,
+        "Id" : 0,
+        "FlushingID" : "22B",
+        "FacilityID" : "C52-V105",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584841.92700000003,
+        "y" : 438044.73499999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 385,
+        "Id" : 0,
+        "FlushingID" : "23",
+        "FacilityID" : "FC56-V042",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585161.80874000001,
+        "y" : 437820.66401000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 386,
+        "Id" : 0,
+        "FlushingID" : "23C",
+        "FacilityID" : "FC52-V108",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585310.15664359578,
+        "y" : 438205.41942175833
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 387,
+        "Id" : 0,
+        "FlushingID" : "1B",
+        "FacilityID" : "C56-V101",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583907.80423941859,
+        "y" : 436565.03507058253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 388,
+        "Id" : 0,
+        "FlushingID" : "323B",
+        "FacilityID" : "C53-V030",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586008.41972999997,
+        "y" : 438770.98944000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 389,
+        "Id" : 0,
+        "FlushingID" : "33C",
+        "FacilityID" : "C53-V031",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586003.44813000003,
+        "y" : 438767.94973999995
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 390,
+        "Id" : 0,
+        "FlushingID" : "34",
+        "FacilityID" : "C53-V033",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586167.19432999997,
+        "y" : 438557.30214000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 391,
+        "Id" : 0,
+        "FlushingID" : "31C",
+        "FacilityID" : "C53-V027",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 586795.06962999993,
+        "y" : 439064.75034000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 392,
+        "Id" : 0,
+        "FlushingID" : "1",
+        "FacilityID" : "F12-V007",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583288.52121717785,
+        "y" : 457743.23149898805
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 393,
+        "Id" : 0,
+        "FlushingID" : "2",
+        "FacilityID" : "FA12-V009",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583121.77917092445,
+        "y" : 457669.02799769741
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 394,
+        "Id" : 0,
+        "FlushingID" : "3",
+        "FacilityID" : "C11-V061",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582915.97334980289,
+        "y" : 457662.55922000785
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 395,
+        "Id" : 0,
+        "FlushingID" : "9",
+        "FacilityID" : "FC08-V012",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583212.17975999997,
+        "y" : 459426.90778000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 396,
+        "Id" : 0,
+        "FlushingID" : "9B",
+        "FacilityID" : "A08-V017",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583160.95818252861,
+        "y" : 459252.850741587
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 397,
+        "Id" : 0,
+        "FlushingID" : "9C",
+        "FacilityID" : "A08-V016",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583174.88189031091,
+        "y" : 459273.72258558008
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 398,
+        "Id" : 0,
+        "FlushingID" : "10B",
+        "FacilityID" : " ",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583753.94637000002,
+        "y" : 459492.53406999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 399,
+        "Id" : 0,
+        "FlushingID" : "10A",
+        "FacilityID" : "C08-V038",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584090.30703941453,
+        "y" : 459602.51866783289
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 400,
+        "Id" : 0,
+        "FlushingID" : "22",
+        "FacilityID" : "A12-V032",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 584038.09886000003,
+        "y" : 456673.82978999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 401,
+        "Id" : 0,
+        "FlushingID" : "22B",
+        "FacilityID" : "F12-V067",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 583927.0839999998,
+        "y" : 456890.92600000009
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 402,
+        "Id" : 0,
+        "FlushingID" : "A",
+        "FacilityID" : "FC55-V027",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581512.64665999997,
+        "y" : 436951.14295000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 403,
+        "Id" : 0,
+        "FlushingID" : "B",
+        "FacilityID" : "FC55-V024",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581894.3423121525,
+        "y" : 436633.2827881258
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 404,
+        "Id" : 0,
+        "FlushingID" : "27A",
+        "FacilityID" : "F34-FH008",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582768.32367301045,
+        "y" : 444278.97976514371
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 405,
+        "Id" : 0,
+        "FlushingID" : "20A",
+        "FacilityID" : "FC50-FH016",
+        "F_Phase" : 7,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 579338.45606999996,
+        "y" : 438761.61829999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 406,
+        "Id" : 0,
+        "FlushingID" : "A",
+        "FacilityID" : "FC55-V027",
+        "F_Phase" : 3,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581512.64665999997,
+        "y" : 436951.14295000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 407,
+        "Id" : 0,
+        "FlushingID" : "B",
+        "FacilityID" : "FC55-V024",
+        "F_Phase" : 2,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 581894.3423121525,
+        "y" : 436633.2827881258
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 408,
+        "Id" : 0,
+        "FlushingID" : "7B",
+        "FacilityID" : "FA47-V072",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585816.44401248521,
+        "y" : 440606.32419725147
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 409,
+        "Id" : 0,
+        "FlushingID" : "7C",
+        "FacilityID" : "FA47-V074",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585802.59940390475,
+        "y" : 440582.7108361749
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 410,
+        "Id" : 0,
+        "FlushingID" : "9D",
+        "FacilityID" : "FA-V073",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585825.66833694628,
+        "y" : 440596.56103429169
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 411,
+        "Id" : 0,
+        "FlushingID" : "23",
+        "FacilityID" : "FA52-V063",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585475.40289999999,
+        "y" : 439859.36219999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 412,
+        "Id" : 0,
+        "FlushingID" : "24",
+        "FacilityID" : "FA52-V062",
+        "F_Phase" : 5,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 585471.72679999995,
+        "y" : 439857.80099999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 413,
+        "Id" : 0,
+        "FlushingID" : "18B",
+        "FacilityID" : "NA",
+        "F_Phase" : 6,
+        "CurrOpen" : 0
+      },
+      "geometry" : {
+        "x" : 582911.08278781129,
+        "y" : 436702.68998614495
+      }
+    }
+  ]
+}
